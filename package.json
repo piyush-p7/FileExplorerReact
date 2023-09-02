@@ -1,0 +1,24 @@
+{
+  "name": "file-explorer-react",
+  "version": "2.22.2",
+  "description": "File explorer website made using React",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piyush-p7/file-explorer-react.git"
+  },
+  "keywords": [
+    "React",
+    "File",
+    "explorer"
+  ],
+  "author": "Piyush Pandita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/piyush-p7/file-explorer-react/issues"
+  },
+  "homepage": "https://github.com/piyush-p7/file-explorer-react#readme"
+}
